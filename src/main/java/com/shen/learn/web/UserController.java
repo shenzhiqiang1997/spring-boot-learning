@@ -1,6 +1,6 @@
 package com.shen.learn.web;
 
-import com.shen.learn.User;
+import com.shen.learn.entity.User;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;

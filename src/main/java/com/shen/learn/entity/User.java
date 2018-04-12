@@ -1,4 +1,4 @@
-package com.shen.learn;
+package com.shen.learn.entity;
 
 public class User {
     private Long id;
