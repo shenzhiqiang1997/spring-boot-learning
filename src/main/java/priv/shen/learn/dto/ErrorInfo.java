@@ -1,4 +1,4 @@
-package com.shen.learn.dto;
+package priv.shen.learn.dto;
 
 public class ErrorInfo<T>{
     public static final Integer OK = 0;

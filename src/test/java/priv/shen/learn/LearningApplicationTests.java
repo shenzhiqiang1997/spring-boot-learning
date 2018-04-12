@@ -1,6 +1,6 @@
-package com.shen.learn;
+package priv.shen.learn;
 
-import com.shen.learn.web.HelloController;
+import priv.shen.learn.web.HelloController;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

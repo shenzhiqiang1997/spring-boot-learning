@@ -1,4 +1,4 @@
-package com.shen.learn;
+package priv.shen.learn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

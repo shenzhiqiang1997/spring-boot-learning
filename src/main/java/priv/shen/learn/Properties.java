@@ -1,4 +1,4 @@
-package com.shen.learn;
+package priv.shen.learn;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

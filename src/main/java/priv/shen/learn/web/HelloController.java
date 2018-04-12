@@ -1,4 +1,4 @@
-package com.shen.learn.web;
+package priv.shen.learn.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
